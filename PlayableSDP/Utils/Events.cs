@@ -1,4 +1,4 @@
-namespace ModName.Utils {
+namespace PlayableSDP.Utils {
    // this class was generated with the following code
    /*
 

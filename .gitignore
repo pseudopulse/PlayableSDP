@@ -1,4 +1,8 @@
 # libs and build directories
-ModName/libs
-ModName/bin
-ModName/obj
+PlayableSDP/libs
+PlayableSDP/bin
+PlayableSDP/obj
+build.sh
+.vscode
+SDPBuild
+SDP.zip
